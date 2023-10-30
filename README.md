@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-<h3>🚀 About Me</h3> 
+<h3 style="padding:20px">🚀 About Me</h3> 
 <h4> I'm Neven Bedr. I'm a Front-End Developer. I really enjoy learning Programming languages and frameworks.  I also enjoy challanges and use new technologies. </h4>
 
 
